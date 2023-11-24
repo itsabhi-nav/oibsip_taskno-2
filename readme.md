@@ -12,11 +12,11 @@ Welcome to the GitHub repository for Abhinav Dubey's portfolio website. This rep
 * Technical Details
 
 
- The website serves as the digital home of Abhinav Kumar Dubey, a passionate Front-End Developer and Web Designer based in Bengaluru. The site provides an introduction to Abhinav, his skills, education, and experience.
+The website serves as the digital home of Abhinav Kumar Dubey, a passionate Front-End Developer and Web Designer based in Bengaluru. The site provides an introduction to Abhinav, his skills, education, and experience.
 
 ## Skills and Experience
 
-### Abhinav showcases his coding and professional skills, including proficiency in HTML, CSS, React JS, web design, and web development. The experience section highlights projects such as a Music Player, a static clone of KFC, and a static clone of the Netflix landing page.
+ Abhinav showcases his coding and professional skills, including proficiency in HTML, CSS, React JS, web design, and web development. The experience section highlights projects such as a Music Player, a static clone of KFC, and a static clone of the Netflix landing page.
 
 ## Services
 
